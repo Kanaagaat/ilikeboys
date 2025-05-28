@@ -1,0 +1,26 @@
+html {
+    background-color: antiquewhite;
+    
+}
+
+h1 {
+    color: whitesmoke;
+    background-color: darkseagreen;
+    font-family: "Black Ops One", system-ui;
+    font-weight: 400;
+    font-style: normal;
+}
+
+h2 {
+    color: #FAF8F1;
+    background-color: #C58940;
+    font-family: "Black Ops One", system-ui;
+    font-weight: 400;
+    font-style: normal;
+}
+
+.black-ops-one-regular {
+  font-family: "Black Ops One", system-ui;
+  font-weight: 400;
+  font-style: normal;
+}

@@ -1,0 +1,30 @@
+ body {
+      background-color: cornflowerblue;
+      color: white;
+      font-size: 18px;
+    }
+
+.color {
+    color: coral;
+
+}
+
+.fs {
+    font-size: 2rem;
+}
+
+.fw {
+    font-weight: 900;
+}
+
+.ff {
+    font-family: "Black Ops One", system-ui;
+}
+
+.fa {
+    text-align: right;
+}
+
+html {
+    font-size: 30px;
+}
