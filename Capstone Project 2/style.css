@@ -1,0 +1,45 @@
+.me {
+    height: 500px;
+    width: 800px;
+    border-radius: 2rem;
+
+}
+.btn-outline-light{
+    border-radius: 10px;
+    
+}
+.background-gradient {
+    background: #2e8ea3;
+    background: radial-gradient(circle, rgba(46, 142, 163, 1) 9%, rgba(242, 61, 61, 1) 100%, rgba(237, 221, 83, 1) 30%);
+}
+.kbtu{
+    display: block;
+    margin: auto;
+    width: 70%;
+    
+}
+me-img{
+    
+    display: block;
+    margin: auto;
+    width: 70%;
+}
+.col{
+    
+  display: block;
+    margin: auto;
+    width: 500px;
+    height: 300px
+}
+.contact{
+    height:20vh;
+}
+@media (max-width: 800px) {
+    .me {
+    height: 300px;
+    width: 300px;
+    border-radius: 2rem;
+
+}
+    
+}
