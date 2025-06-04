@@ -8,9 +8,14 @@
     border-radius: 10px;
     
 }
-.background-gradient {
+body {
     background: #2e8ea3;
     background: radial-gradient(circle, rgba(46, 142, 163, 1) 9%, rgba(242, 61, 61, 1) 100%, rgba(237, 221, 83, 1) 30%);
+    font-family: "IBM Plex Serif", serif;
+
+}
+h2{
+    font-family: "IBM Plex Serif", serif;
 }
 .kbtu{
     display: block;
@@ -23,6 +28,9 @@ me-img{
     display: block;
     margin: auto;
     width: 70%;
+}
+.btn{
+    box-shadow: none;
 }
 .col{
     
