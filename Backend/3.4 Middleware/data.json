@@ -1,0 +1,7 @@
+{
+    "name": "data.json",
+    "version": "1.0.0",
+    "description": "A JSON file for storing data",
+    "main": "data.js",
+    "age": "module"
+}
